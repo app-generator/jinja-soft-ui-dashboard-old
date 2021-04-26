@@ -1,9 +1,11 @@
 # [Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
+Open-source **Jinja Template** provided by AppSeed on top of **Soft UI Dashboard**, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatibale with Jinja Template Engine: Flask, Django, Bottle of FastAPI. 
 
-- UI Kit: **Soft UI Dashboard** (Free Version) by **Creative-Tim**
-- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+<br />
+
+- UI Kit: **[Soft UI Dashboard](https://bit.ly/2Q1uIfK)** (Free Version) by **Creative-Tim**
+- Render Engine: Flask / Jinja2
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
@@ -14,11 +16,11 @@
 
 <br />
 
-## Soft UI Design System - UI Kit
+## [Soft UI Dashboard](https://bit.ly/2Q1uIfK)
 
-Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+Most complex and innovative Dashboard Made by Creative Tim: made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and webapps. 
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+**Fully Coded Elements** - Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
 <br />
 
