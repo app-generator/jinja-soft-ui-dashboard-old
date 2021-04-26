@@ -1,26 +1,28 @@
-# [Jinja Template](https://appseed.us/jinja-template)
+# [Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/). 
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-<br />
-
-> Features:
-
-- UI Kit: **Pixel Lite** (Free Version) by **Themesberg**
+- UI Kit: **Soft UI Dashboard** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
-> Links
-
-- [LIVE Demo](https://boilerplate-code-jinja.appseed-srv1.com/) - starter in action
+- [Soft UI Design System Jinja - Demo](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-jinja/master/media/theme-jinja2-screen.png)
+## Soft UI Design System - UI Kit
+
+Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+<br />
+
+![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-dashboard/master/media/jinja-soft-ui-dashboard-screen.png)
 
 <br />
 
@@ -28,8 +30,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-soft-ui-dashboard.git
+$ cd jinja-soft-ui-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -118,8 +120,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-soft-ui-dashboard.git
+$ cd jinja-soft-ui-dashboard
 ```
 
 > Start the app in Docker
@@ -144,8 +146,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-soft-ui-dashboard.git
+$ cd jinja-soft-ui-dashboard
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -216,4 +218,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://appseed.us/jinja-template) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
