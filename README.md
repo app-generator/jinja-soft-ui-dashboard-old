@@ -15,7 +15,7 @@ Open-source **Jinja Template** provided by AppSeed on top of **Soft UI Dashboard
 
 > Links:
 
-- [Soft UI Design System Jinja - Demo](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - starter in action
+- [Soft UI Dashboard Jinja](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
