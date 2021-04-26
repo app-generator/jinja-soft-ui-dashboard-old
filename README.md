@@ -4,12 +4,16 @@ Open-source **Jinja Template** provided by AppSeed on top of **Soft UI Dashboard
 
 <br />
 
+> Features:
+
 - UI Kit: **[Soft UI Dashboard](https://bit.ly/2Q1uIfK)** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / Jinja2
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
+
+> Links:
 
 - [Soft UI Design System Jinja - Demo](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
