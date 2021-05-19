@@ -1,6 +1,6 @@
 # [Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
 
-Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Dashboard, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
+Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Dashboard, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple dashboards on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
 
 <br />
 
@@ -17,6 +17,7 @@ Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https:/
 
 - [Soft UI Dashboard Jinja](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
 - [Soft UI Dashboard](https://blog.appseed.us/soft-ui-dashboard-free-jinja-template/) - Free Jinja Template (blog article)
+- More products built with [Soft UI Design](https://appseed.us/ui-kit/soft-ui-design-system) - provided by AppSeed
 
 <br />
 
