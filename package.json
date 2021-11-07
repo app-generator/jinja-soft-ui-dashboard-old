@@ -1,7 +1,7 @@
 {
     "name": "jinja-soft-ui-dashboard",
     "mastertemplate": "boilerplate-code-jinja",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Template project - Flask/Jinja2 Theme",
     "scripts": {},
     "repository": {
