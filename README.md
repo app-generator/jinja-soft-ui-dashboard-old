@@ -1,4 +1,4 @@
-# [Soft UI](https://appseed.us/ui-kit/soft-ui-design-system) Dashboard Jinja
+# [Jinja/Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard)
 
 Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Dashboard, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code `simple dashboards` on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
 
@@ -17,17 +17,27 @@ Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https:/
 
 > Links:
 
-- [Soft UI Dashboard](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
-- [Soft UI Dashboard](https://blog.appseed.us/soft-ui-dashboard-free-jinja-template/) - Free Jinja Template (blog article)
-- More products built with [Soft UI Design](https://appseed.us/ui-kit/soft-ui-design-system) - provided by AppSeed
+- [Jinja/Flask Soft UI Dashboard](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
+- [Jinja/Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
 
 <br />
 
-## [Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)
+## Quick Start in [Docker](https://www.docker.com/)
 
-Most complex and innovative Dashboard Made by Creative Tim: made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and webapps. 
+> Get the code
 
-**Fully Coded Elements** - **Soft UI** Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+```bash
+$ git clone https://github.com/app-generator/jinja-soft-ui-dashboard.git
+$ cd jinja-soft-ui-dashboard
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose up --build 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
@@ -171,30 +181,6 @@ The generated file is saved in `static/assets/css` directory.
 
 The project comes with a basic configuration for [Docker](https://www.docker.com/), [HEROKU](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The steps to start the template using Docker:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/jinja-soft-ui-dashboard.git
-$ cd jinja-soft-ui-dashboard
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
-
 ### [Heroku](https://www.heroku.com/)
 ---
 
@@ -279,4 +265,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Jinja/Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
