@@ -6,7 +6,7 @@ Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https:/
 
 > Features:
 
-- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- `Up-to-date dependencies`: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Soft UI Dashboard** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / Jinja2
@@ -17,12 +17,13 @@ Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https:/
 
 > Links:
 
-- [Jinja/Flask Soft UI Dashboard](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
-- [Jinja/Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
+- 👉 [Jinja/Flask Soft UI Dashboard](https://jinja-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
+- 👉 [Jinja/Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
+- 👉 More [Free Dashboards](https://appseed.us/admin-dashboards/open-source) crafted in `Django`, `Flask` and **React**
 
 <br />
 
-## Quick Start in [Docker](https://www.docker.com/)
+## ✨ Quick Start in `Docker`
 
 > Get the code
 
@@ -45,7 +46,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-## Build from sources
+## ✨ Build from sources
 
 ```bash
 $ # Clone the sources
@@ -83,7 +84,7 @@ $ # Access the UI in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Code-base structure
+## ✨ Code-base structure
 
 The project has a simple structure, represented as bellow:
 
@@ -134,7 +135,7 @@ The project has a simple structure, represented as bellow:
 
 <br />
 
-## Recompile CSS
+## ✨ Recompile CSS
 
 To recompile SCSS files, follow this setup:
 
@@ -177,7 +178,7 @@ The generated file is saved in `static/assets/css` directory.
 
 <br />
 
-## Deployment
+## ✨ Deployment
 
 The project comes with a basic configuration for [Docker](https://www.docker.com/), [HEROKU](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
@@ -258,7 +259,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Credits & Links
+## ✨ Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The official website
 
