@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.0.3] 2022-05-23
+### Improvements
+
+- UI Update: `Soft UI Dashboard` v1.0.5
+  - upgrade Bootstrap version to v5.1.3
+  - upgrade ChartJs plugin version to v3.7.1
+  - fix running 'npm install' issue
+  - fix SCSS compiling issues
+  - update sidebar height
+  - fix sidebar button on Safari
+  - update dropdown text on RTL page
+  - fix navbar scroll error on example pages
+
 ## [1.0.2] 2021-12-09
 ### Improvements
 
