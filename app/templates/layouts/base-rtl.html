@@ -13,7 +13,7 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 
 <head>
   <meta charset="utf-8" />
@@ -37,33 +37,27 @@
   <link href="/static/assets/css/nucleo-svg.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link id="pagestyle" href="/static/assets/css/soft-ui-dashboard.css?v=1.0.5" rel="stylesheet" />
-
-  <!-- Specific CSS goes HERE -->
-  {% block stylesheets %}{% endblock stylesheets %}
-
 </head>
-<body class="g-sidenav-show bg-gray-100">
 
-  {% include "includes/sidebar.html" %}   
+<body class="g-sidenav-show rtl bg-gray-100">
 
-  <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">
+  {% include "includes/sidebar-rtl.html" %}
 
-    {% include "includes/navigation.html" %}     
+  <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg overflow-hidden">
+
+    {% include "includes/navigation-rtl.html" %}
 
     {% block content %}{% endblock content %}
 
   </main>
 
-  <!-- APP Configurator -->
   {% include "includes/fixed-plugin.html" %}
 
-  <!-- Core JS Files -->
   {% include "includes/scripts.html" %}
 
   <!-- Specific JS goes HERE --> 
   {% block javascripts %}{% endblock javascripts %}
   
-  <!-- FIX Sidenav-scrollbar -->
   <script>
     var win = navigator.platform.indexOf('Win') > -1;
     if (win && document.querySelector('#sidenav-scrollbar')) {
@@ -73,8 +67,6 @@
       Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
     }
   </script>
-  <!-- FIX Sidenav-scrollbar END -->
-
   <!-- Github buttons -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
