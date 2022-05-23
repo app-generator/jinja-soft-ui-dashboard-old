@@ -3,6 +3,8 @@
 ## [1.0.3] 2022-05-23
 ### Improvements
 
+- Added CDN/Static Server management
+  - `ASSETS_ROOT` env variable
 - UI Update: `Soft UI Dashboard` v1.0.5
   - upgrade Bootstrap version to v5.1.3
   - upgrade ChartJs plugin version to v3.7.1
