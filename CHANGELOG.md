@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.4] 2022-05-24
+### Improvements
+
+- Built with [Soft UI Dashboard Generator](https://appseed.us/generator/soft-ui-dashboard/)
+  - Timestamp: `2022-05-25 09:56`
+- Codebase Improvements
+- Assets Management via `.env`
+  - `ASSETS_ROOT` variable  
+
 ## [1.0.3] 2022-05-23
 ### Improvements
 
