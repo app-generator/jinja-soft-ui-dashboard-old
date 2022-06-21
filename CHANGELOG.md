@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5] 2022-06-21
+### Improvements
+
+- UI Update: `Soft UI Dashboard` v1.0.6
+- Enhanced version:
+  - `Dark Mode`
+
 ## [1.0.4] 2022-05-24
 ### Improvements
 
