@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] 2022-09-16
+### Improvements
+
+- Links CleanUP
+- Minor UX changes (navigation bar)
+
 ## [1.0.6] 2022-06-21
 ### Fixes
 
